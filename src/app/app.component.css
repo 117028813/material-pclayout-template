@@ -1,0 +1,16 @@
+.flex-spacer {
+  flex-grow: 1;
+}
+
+.space {
+  margin-top: 64px;
+}
+
+mat-toolbar {
+  z-index: 2;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
